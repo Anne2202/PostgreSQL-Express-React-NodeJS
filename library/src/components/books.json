@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "title": "Into the Wild",
+      "author": "Jon Krakauer",
+      "description": "Into the Wild is the true story of Chris McCandless, a young Emory graduate who is found dead in the Alaskan wilderness in September 1992",
+      "category": "True story",
+      "cover_url": "https://motorhomehobos.com/wp-content/uploads/2021/03/into-the-wild-book-cover.jpg",
+      "publishedat": "1996-01-12",
+      "isactive": true
+    },
+    {
+      "id": 2,
+      "title": "Wild: From Lost to Found on the Pacific Crest Trail",
+      "author": "Cheryl Strayed",
+      "description": "This memoir follows the author's journey as she hikes the Pacific Crest Trail alone, reflecting on her past and finding herself along the way.",
+      "category": "Adventure/True story/Drama",
+      "cover_url": "https://images.thalia.media/03/-/75c2f9a662f042de8b482bbeb47e0f25/wild-taschenbuch-cheryl-strayed-englisch.jpeg",
+      "publishedat": "2012-03-20",
+      "isactive": true
+    },
+    {
+      "id": 3,
+      "title": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+      "author": "Laura Hillenbrand",
+      "description": "This book tells the extraordinary true story of Louis Zamperini, an Olympic athlete and WWII bombardier who survives a plane crash, being lost at sea, and enduring brutal treatment as a prisoner of war.",
+      "category": "Adventure/True story/Drama",
+      "cover_url": "https://target.scene7.com/is/image/Target/GUEST_cf3bce6a-d2e4-4876-98ea-bd777da30888?wid=488&hei=488&fmt=pjpeg",
+      "publishedat": "2010-11-16",
+      "isactive": false
+    },
+    {
+        "id": 4,
+        "title": "The Lost City of Z: A Tale of Deadly Obsession in the Amazon",
+        "author": "David Grann",
+        "description": "This book explores the true story of British explorer Percy Fawcett and his quest to find a lost ancient city in the Amazon rainforest, which ultimately leads to his mysterious disappearance.",
+        "category": "Adventure/True story/Drama",
+        "cover_url": "https://images.randomhouse.com/cover/9781400078455?height=225",
+        "publishedat": "2009-02-24",
+        "isactive": false
+      },
+      {
+        "id": 4,
+        "title": "The Lost City of Z: A Tale of Deadly Obsession in the Amazon",
+        "author": "David Grann",
+        "description": "This book explores the true story of British explorer Percy Fawcett and his quest to find a lost ancient city in the Amazon rainforest, which ultimately leads to his mysterious disappearance.",
+        "category": "Adventure/True story/Drama",
+        "cover_url": "https://images.randomhouse.com/cover/9781400078455?height=225",
+        "publishedat": "2009-02-24",
+        "isactive": true
+      },
+      {
+        "id": 5,
+        "title": "Endurance: Shackleton's Incredible Voyage",
+        "author": "Alfred Lansing",
+        "description": "This gripping account narrates the true story of Ernest Shackleton and his crew's ill-fated expedition to Antarctica, highlighting their incredible journey of survival and endurance.",
+        "category": "Adventure/True story/Drama",
+        "cover_url": "https://media.audiobookstore.com/a/z/azb0/azb0-square-1536.jpg",
+        "publishedat": "1959-10-28",
+        "isactive": false
+      },
+      {
+        "id": 6,
+        "title": "Into Thin Air: A Personal Account of the Mount Everest Disaster",
+        "author": "Jon Krakauer",
+        "description": "In this gripping firsthand account, the author shares his experience as a member of a climbing expedition on Mount Everest, which turned into one of the deadliest disasters in the mountain's history.",
+        "category": "Adventure/True story/Drama",
+        "cover_url": "https://images.penguinrandomhouse.com/cover/9780593454305",
+        "publishedat": "1997-10-01",
+        "isactive": true
+      }
+  ]
